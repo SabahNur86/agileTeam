@@ -36,41 +36,7 @@ public class Products {
                 "\n10. Skittles = $" + skittles;
     }
 
-    public void setChipsAhoy(double chipsAhoy) {
-        this.chipsAhoy = chipsAhoy;
-    }
 
-    public void setPringles(double pringles) {
-        this.pringles = pringles;
-    }
-
-    public void setMilano(double milano) {
-        this.milano = milano;
-    }
-
-    public void setReeses(double reeses) {
-        this.reeses = reeses;
-    }
-
-    public void setCocaCola(double cocaCola) {
-        this.cocaCola = cocaCola;
-    }
-
-    public void setFanta(double fanta) {
-        this.fanta = fanta;
-    }
-
-    public void setWater(double water) {
-        this.water = water;
-    }
-
-    public void setArizona(double arizona) {
-        this.arizona = arizona;
-    }
-
-    public void setSkittles(double skittles) {
-        this.skittles = skittles;
-    }
 
     public void setProductNum(int productNum) {
         this.productNum = productNum;
