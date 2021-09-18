@@ -13,7 +13,7 @@ public class Methods {
         return money;
     }
     public double select(Products product){
-
+//Urunleri listeliyor urun numarasını musteriye sectirtip secilen urunun fiyatını return ediyor
         System.out.println(product.toString());
         Scanner scan=new Scanner(System.in);
         do{
